@@ -1,0 +1,3 @@
+[
+  {"Tp": "User", "Var": "user.", "Envvars": ["email", "name"]}
+]
